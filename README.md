@@ -24,3 +24,13 @@ Here is my junior steps.
 
 \- git push uploads changes
 
+
+
+
+
+\## About Me
+
+
+
+I am a Computer Science student learning Git and GitHub.
+
