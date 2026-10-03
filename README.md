@@ -34,3 +34,11 @@ Here is my junior steps.
 
 I am a Computer Science student learning Git and GitHub.
 
+
+
+\## Day 3
+
+
+
+Today I learned how to clone a GitHub repository.
+
