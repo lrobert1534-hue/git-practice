@@ -1,4 +1,4 @@
-\#My First Git Project
+kk#My First Git Project
 
 
 
@@ -41,4 +41,14 @@ I am a Computer Science student learning Git and GitHub.
 
 
 Today I learned how to clone a GitHub repository.
+
+
+
+
+
+\## Developer 2
+
+
+
+I am making a change from another computer.
 
