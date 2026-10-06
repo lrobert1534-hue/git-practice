@@ -42,3 +42,7 @@ I am making a change from another computer.
 \## Developer 1
 
 I am making a change from the main repository.
+
+\## Contact Page
+
+I am learning how to manage remote branches with Git.
