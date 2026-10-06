@@ -66,3 +66,21 @@ Learning how developers collaborate with GitHub.
 
 Today I am learning how to handle merge conflicts.
 
+
+
+
+
+\## Developer 2
+
+
+
+I am making a change from another computer.
+
+
+
+\## Developer 1
+
+
+
+I am making a change from the main repository.
+
