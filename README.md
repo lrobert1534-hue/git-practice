@@ -52,3 +52,17 @@ Today I learned how to clone a GitHub repository.
 
 Learning how developers collaborate with GitHub.
 
+
+
+
+
+
+
+
+
+\## Day 5
+
+
+
+Today I am learning how to handle merge conflicts.
+
