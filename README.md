@@ -1,18 +1,12 @@
-kk#My First Git Project
-
+#My First Git Project
 
 
 Iam learning Git and GitHub together.
 
 
-
 Here is my junior steps.
 
-
-
 \## What I learned
-
-
 
 \- Git tracks changes
 
@@ -25,30 +19,26 @@ Here is my junior steps.
 \- git push uploads changes
 
 
-
-
-
 \## About Me
-
-
 
 I am a Computer Science student learning Git and GitHub.
 
-
-
 \## Day 3
-
-
 
 Today I learned how to clone a GitHub repository.
 
+\## Profile Update
 
+Learning how developers collaborate with GitHub.
 
+\## Day 5
 
+Today I am learning how to handle merge conflicts.
 
 \## Developer 2
 
-
-
 I am making a change from another computer.
 
+\## Developer 1
+
+I am making a change from the main repository.
